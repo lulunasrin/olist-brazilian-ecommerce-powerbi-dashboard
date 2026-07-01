@@ -111,11 +111,9 @@ Tables Used:
 - Business Intelligence
 - Business Analysis
 
-## 📽️ Presentation
-
-The project presentation is available in the **Olist-Brazilian-E-Commerce-Analysis-Dashboard (1)** folder and explains the project objectives, data preparation, dashboard design, business questions, insights, and recommendations.
-
----
+## 📽️ Presentation 
+The project presentation is available in the
+ 📄 [Olist Brazilian Analysis Dashboard Presentation](Presentation/Olist-Brazilian-Analysis-Dashboard.pptx) folder and explains the project objectives, data preparation, dashboard design, business questions, insights, and recommendations.
 
 
 ## 👩‍💻 Author
